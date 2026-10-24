@@ -9,4 +9,7 @@
     <string name="answer_two">Swift</string>
     <string name="answer_three">Python</string>
     <string name="answer_four">C#</string>
+    <string name="result_title">Результаты викторины</string>
+    <string name="result_summary">Ваш результат: %1$d из %2$d</string>
+    <string name="restart_quiz">Пройти ещё раз</string>
 </resources>
